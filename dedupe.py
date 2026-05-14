@@ -1,3 +1,6 @@
+//Written by andrey-kk
+//14.05.2026
+
 import json
 
 def deduplicate():
