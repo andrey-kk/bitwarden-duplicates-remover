@@ -12,3 +12,6 @@ A lightweight Python utility to identify and remove duplicate login entries from
 2. Name it `bitwarden_export.json` in this folder.
 3. Run `python dedupe.py`.
 4. Import `cleaned_vault.json` back to Bitwarden after purging the old vault.
+
+## Author:
+Andrey K. (andrey-kk)
